@@ -1,3 +1,8 @@
+> **Moved:** This project is maintained in [data-analytics-bootcamp-2019/projects/leaflet-challenge](https://github.com/john-stromberg/data-analytics-bootcamp-2019/tree/main/projects/leaflet-challenge).
+> This repository is retained as a historical snapshot.
+
+---
+
 # Leaflet Homework - Visualizing Data with Leaflet
 
 ## Background
